@@ -32,9 +32,10 @@
     </parent>
 
     <scm>
-        <connection>scm:svn:http://dear2dear.googlecode.com/svn/trunk/qs/QuickSleep</connection>
-        <developerConnection>scm:svn:https://dear2dear.googlecode.com/svn/trunk/qs/QuickSleep</developerConnection>
-        <url>http://code.google.com/p/dear2dear/source/browse/#svn%2Ftrunk%2Fqs%2FQuickSleep</url>
+        <connection>scm:git:https://github.com/pdecat/quicksleep</connection>
+        <developerConnection>scm:git:git@github.com:pdecat/quicksleep</developerConnection>
+        <url>https://github.com/pdecat/quicksleep</url>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
