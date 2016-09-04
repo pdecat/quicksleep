@@ -18,7 +18,7 @@ package org.decat.qs;
 
 /*
  **
- **       Copyright (C) 2010-2011 Patrick Decat
+ **       Copyright (C) 2010-2016 Patrick Decat
  ** 
  **       This file is part of QuickSleep.
  **
